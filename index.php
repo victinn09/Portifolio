@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portifólio</title>
 
-    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="css/estilo.css">
     
 </head>
 <body>
 
-<div class="interface">
+<div id="interface">
 
     <header class="cabecalho">
+        
 
         <nav class="menu">
 
@@ -21,12 +22,12 @@
             </div>
 
             <ul>
-                <li>Home</li>
-                <li>Serviços</li>
-                <li>Produtos</li>
-                <li>Portifólio</li>
-                <li>Sobre</li>
-                <li>Contato</li>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Serviços</a></li>
+                <li><a href="">Produtos</a></li>
+                <li><a href="">Portifólio</a></li>
+                <li><a href="">Sobre</a></li>
+                <li><a href="">Contato</a></li>
             </ul>
 
         </nav>
