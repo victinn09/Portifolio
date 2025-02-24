@@ -1,4 +1,4 @@
-:root{
+:root {
     font-size: 12px;
     font-family: verdana, sans-serif;
 }
@@ -10,15 +10,15 @@
     vertical-align: baseline;
 }
 
-#interface{
+#interface {
     display: block;
     width: 100vw;
     min-width: 100vh;
     overflow: hidden;
-
+    
 }
 
-#interface header.cabecalho{
+#interface header.cabecalho {
     display: block;
     width: 100%;
     height: 100%;
