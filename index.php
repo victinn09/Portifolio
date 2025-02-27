@@ -24,28 +24,30 @@
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Serviços</a></li>
-                <li><a href="">Produtos</a></li>
-                <li><a href="">Portifólio</a></li>
-                <li><a href="">Sobre</a></li>
-                <li><a href="">Contato</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Portifólio</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
             </ul>
 
         </nav>
 
         <div class="titles">
+            <div class="container-titles">
 
-            <h1 class="titulo">Entregando serviços de qualidade</h1>
-            <h1 class="subtitulo">Soluções em TI</h1>
+                <h1 class="titulo">Entregando serviços de qualidade</h1>
+                <h1 class="subtitulo">Soluções em TI</h1>
 
-            <p class="paragrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quibusdam ab in! A, nam voluptas!</p>
+                <p class="paragrafo">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam quibusdam ab in! A, nam voluptas!</p>
+            </div>
+        
 
-        </div>
-
-        <div class="socialIcons">
-            <a href="#">Twitter</a>
-            <a href="#">Facebook</a>
-            <a href="#">LinkedIn</a>
-            <a href="#">Instagram</a>
+            <div class="socialIcons">
+                <a href="#">Twitter</a>
+                <a href="#">Facebook</a>
+                <a href="#">LinkedIn</a>
+                <a href="#">Instagram</a>
+            </div>
         </div>
 
     </header>
