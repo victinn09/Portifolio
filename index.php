@@ -96,24 +96,24 @@
             <p class="sub-title">Lorem ipsum dolor sit amet.</p>
 
             <div class="container-imagens">
-                <div class="img">
-                    <img src="imagens/product-1.jpg" alt="Imagem 1" />
-                </div>
-                <div class="img">
-                    <img src="imagens/product-2.jpg" alt="Imagem 2" />
-                </div>
-                <div class="img">
-                    <img src="imagens/product-3.jpg" alt="Imagem 3" />
-                </div>
-                <div class="img">
-                    <img src="imagens/product-4.jpg" alt="Imagem 4" />
-                </div>
-                <div class="img">
-                    <img src="imagens/product-5.jpg" alt="Imagem 5" />
-                </div>
-                <div class="img">
-                    <img src="imagens/product-6.jpg" alt="Imagem 6" />
-                </div>
+                <a href="#" class="img" style="background-image: url('imagens/product-1.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-2.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-3.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-4.jpg');">
+                    
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-5.jpg');">
+
+                </a>
+                <a href="#" class="img" style="background-image: url('imagens/product-6.jpg');">
+                    
+                </a>
             </div>
 
         </section>
