@@ -80,7 +80,7 @@
 #interface .cabecalho .menu ul li a {
     display: block;
     font-family: Oswald;
-    color: var(--branco-padrao);
+    color: var (--azul-padrao) ;
     font-size: 2rem;
     padding: .5rem 1rem;
     text-decoration: none;
@@ -221,4 +221,20 @@
     text-align: center;
     font-size: 1.2rem;
     color: #A66B49;
+}
+
+#interface #corpo .portifolio .container-imagens {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+
+#interface #corpo .portifolio .container-imagens .img {
+    width: 30%;
+}
+
+#interface #corpo .portifolio .container-imagens .img img {
+    display: block;
+    width: 100%;
 }

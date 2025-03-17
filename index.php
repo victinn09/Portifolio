@@ -97,18 +97,23 @@
 
             <div class="container-imagens">
                 <div class="img">
-                    <img src="" alt="">
+                    <img src="imagens/product-1.jpg" alt="Imagem 1" />
                 </div>
                 <div class="img">
-                    <img src="" alt="">
+                    <img src="imagens/product-2.jpg" alt="Imagem 2" />
                 </div>
                 <div class="img">
-                    <img src="" alt="">
+                    <img src="imagens/product-3.jpg" alt="Imagem 3" />
                 </div>
                 <div class="img">
-                    <img src="" alt=""></div>
-                <div class="img"><img src="" alt=""></div>
-                <div class="img"><img src="" alt=""></div>
+                    <img src="imagens/product-4.jpg" alt="Imagem 4" />
+                </div>
+                <div class="img">
+                    <img src="imagens/product-5.jpg" alt="Imagem 5" />
+                </div>
+                <div class="img">
+                    <img src="imagens/product-6.jpg" alt="Imagem 6" />
+                </div>
             </div>
 
         </section>
