@@ -122,11 +122,11 @@
 
             <hgroup class="container-texto">
 
-                <h4 class="title-banner">Saiba mais sobre nossos Projetos</h4>
+                <h4 class="title-banner">Venha conhecer nossos Projetos</h4>
 
-                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat similique, placeat maxime odio voluptas ducimus pariatur libero accusamus, ad aperiam quis et repellendus cupiditate nostrum.</p>
+                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, fugit enim? Fuga magnam dolore assumenda maxime enim eos? Dicta, porro suscipit saepe dolores aliquid corrupti.</p>
 
-                <button class="btn-banner">Saiba mais</button>
+                <a href="#" class="btn-banner">Saiba mais</a>
 
             </hgroup>
 
@@ -135,6 +135,42 @@
         <section class="sobre">
 
 
+
+        </section>
+
+
+        <section class="contato">
+
+  
+        <h3 class="title-portifolio">Fale conosco</h3>
+        <p class="sub-title">Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+
+        <div class="container-contato">
+
+            <aside class="dados-contato">
+                <h4 class="title-aside">Endereço</h4>
+                <p class="txt-aside">Rua Glória Graça Paixão, N°443 - centro - Cidade Pequena</p>
+                
+                <h4 class="title-aside">Telefone</h4>
+                <p class="txt-aside">33 3332-3334</p>
+                <p class="txt-aside"> 33 98899-9988</p>
+
+                <h4 class="title-aside">E-mail</h4>
+                <p class="txt-aside">contato@meusite.comn.br</p>
+                <p class="txt-aside">faleconosco@meusite.com.br</p>
+            </aside>
+
+            <form action="" method="POST">
+
+                <input type="text" name="nome" id="nome" placeholder="Nome" required />
+                <input type="email" name="emial" id="email" placeholder="E-mail" required />
+                <input type="text" name="assunto" id="assunto" placeholder="Assunto" required />
+                <textarea name="mensagem" id="mensagem" id="mensagem" placeholder="Mensagem"></textarea>
+
+                <input type="submit" value="Envia Mensagem" />
+            </form>
+
+        </div>
 
         </section>
 
