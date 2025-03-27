@@ -122,9 +122,9 @@
 
             <hgroup class="container-texto">
 
-                <h4 class="title-banner">Venha conhecer nossos Projetos</h4>
+                <h4 class="title-banner">Venha conhecer nossos produtos</h4>
 
-                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, fugit enim? Fuga magnam dolore assumenda maxime enim eos? Dicta, porro suscipit saepe dolores aliquid corrupti.</p>
+                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus cum laudantium repudiandae, voluptatem deserunt aspernatur sit explicabo officia aut eum nemo reprehenderit qui earum eius.</p>
 
                 <a href="#" class="btn-banner">Saiba mais</a>
 
@@ -138,44 +138,113 @@
 
         </section>
 
-
         <section class="contato">
 
-  
-        <h3 class="title-portifolio">Fale conosco</h3>
-        <p class="sub-title">Lorem, ipsum dolor sit amet consectetur adipisicing.</p>
+            <h3 class="title-contato">Fale conosco</h3>
+            <p class="sub-title">Lorem ipsum dolor sit amet consectetur adipisicing.</p>
 
-        <div class="container-contato">
+            <div class="container-contato">
 
-            <aside class="dados-contato">
-                <h4 class="title-aside">Endereço</h4>
-                <p class="txt-aside">Rua Glória Graça Paixão, N°443 - centro - Cidade Pequena</p>
-                
-                <h4 class="title-aside">Telefone</h4>
-                <p class="txt-aside">33 3332-3334</p>
-                <p class="txt-aside"> 33 98899-9988</p>
+                <aside class="dados-contato">
+                    <h4 class="title-aside">Endereço</h4>
+                    <p class="txt-aside">Rua das Margaridas, S/Nº<br />Centro - Manhuaçu/MG</p>
 
-                <h4 class="title-aside">E-mail</h4>
-                <p class="txt-aside">contato@meusite.comn.br</p>
-                <p class="txt-aside">faleconosco@meusite.com.br</p>
-            </aside>
+                    <h4 class="title-aside">Telefone</h4>
+                    <p class="txt-aside">33 3331-3333</p>
+                    <p class="txt-aside">33 9 8400-9999</p>
 
-            <form action="" method="POST">
+                    <h4 class="title-aside">E-Mail</h4>
+                    <p class="txt-aside">contato@meusite.com.br</p>
+                    <p class="txt-aside">faleconosco@meusite.com.br</p>
+                </aside>
 
-                <input type="text" name="nome" id="nome" placeholder="Nome" required />
-                <input type="email" name="emial" id="email" placeholder="E-mail" required />
-                <input type="text" name="assunto" id="assunto" placeholder="Assunto" required />
-                <textarea name="mensagem" id="mensagem" id="mensagem" placeholder="Mensagem"></textarea>
+                <form action="" method="POST">
 
-                <input type="submit" value="Envia Mensagem" />
-            </form>
+                    <div class="line-form">
+                        <input type="text" name="nome" id="nome" placeholder="Nome*" required />
+                        <input type="email" name="email" id="email" placeholder="E-Mail*" required />
+                    </div>
 
-        </div>
+                    <div class="line-form">
+                        <input type="text" name="assunto" id="assunto" placeholder="Assunto" />
+                    </div>
+
+                    <div class="line-form">
+                        <textarea name="mensagem" id="mensagem" rows="7" placeholder="Escreva Sua Mensagem*" required></textarea>
+                    </div>
+
+                    <button type="submit">Enviar mensagem</button>
+
+                </form>
+
+            </div>
 
         </section>
 
-
     </main>
+
+    <footer id="rodape">
+
+        <div class="container-sombreamento">
+
+            <div class="container-rodape">
+
+                <section class="sobre">
+
+                    <img src="imagens/logo.png" alt="Logo" />
+
+                    <p class="txt-sobre">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci reiciendis itaque nihil magni excepturi, assumenda in dolore iure necessitatibus deserunt nulla minima hic atque quos.</p>
+
+                    <h4 class="title-sobre">Siga-nos</h4>
+
+                    <div class="social-icons">
+                        <a href="#" title="Visite nosso Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" title="Visite nosso Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" title="Visite nosso LinkedIn"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" title="Visite nosso Instagram"><i class="fab fa-instagram"></i></a>
+                    </div>
+
+                </section>
+
+                <section class="servicos">
+
+                    <h4 class="title-servicos">Serviços</h4>
+
+                    <ul>
+                        <li><a href="#">Desenvolvimento WEB</a></li>
+                        <li><a href="#">WEB Hosting</a></li>
+                        <li><a href="#">Mídias Sociais</a></li>
+                        <li><a href="#">Aplicações SEO</a></li>
+                        <li><a href="#">Computação em Nuvem</a></li>
+                        <li><a href="#">Segurança de Dados</a></li>
+                    </ul>
+
+                </section>
+
+                <section class="contato">
+
+                    <h4 class="title-contato">Contatos</h4>
+
+                    <p class="txt-contatos">Rua das Margaridas, S/Nº</p>
+                    <p class="txt-contatos">33 9 8400-9999</p>
+                    <p class="txt-contatos">contato@meusite.com.br</p>
+
+                    <h4 class="title-contato">Newsletter</h4>
+                    <form action="" method="GET">
+                        <input type="email" name="news-email" id="news-email" placeholder="E-Mail" />
+
+                        <button type="submit"><i class="fab fa-telegram"></i></button>
+                    </form>
+
+                </section>
+
+            </div>
+
+            <p class="txt-creditos">Geraldo Cezário Neto &copy; 2025</p>
+
+        </div>
+
+    </footer>
 
 </div>
     
