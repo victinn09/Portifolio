@@ -122,9 +122,9 @@
 
             <hgroup class="container-texto">
 
-                <h4 class="title-banner">Venha conhecer nossos produtos</h4>
+                <h4 class="title-banner"c>Conheça nossos projetos</h4>
 
-                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus cum laudantium repudiandae, voluptatem deserunt aspernatur sit explicabo officia aut eum nemo reprehenderit qui earum eius.</p>
+                <p class="txt-banner">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium fuga et rerum, quia magni quasi doloribus! In perspiciatis dolorem neque magnam, repellat accusantium exercitationem obcaecati.</p>
 
                 <a href="#" class="btn-banner">Saiba mais</a>
 
@@ -183,17 +183,19 @@
 
     </main>
 
+    <!-- ========================================================= -->
+
     <footer id="rodape">
 
-        <div class="container-sombreamento">
+        <div class="sombreamento">
 
             <div class="container-rodape">
 
-                <section class="sobre">
+                <section class="item-rodape sobre">
 
                     <img src="imagens/logo.png" alt="Logo" />
 
-                    <p class="txt-sobre">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci reiciendis itaque nihil magni excepturi, assumenda in dolore iure necessitatibus deserunt nulla minima hic atque quos.</p>
+                    <p class="txt-sobre">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci reiciendis itaque nihil magni excepturi, assumenda in dolore iure necessitatibus deserunt.</p>
 
                     <h4 class="title-sobre">Siga-nos</h4>
 
@@ -206,7 +208,7 @@
 
                 </section>
 
-                <section class="servicos">
+                <section class="item-rodape servicos">
 
                     <h4 class="title-servicos">Serviços</h4>
 
@@ -221,13 +223,15 @@
 
                 </section>
 
-                <section class="contato">
+                <section class="item-rodape contato">
 
                     <h4 class="title-contato">Contatos</h4>
 
-                    <p class="txt-contatos">Rua das Margaridas, S/Nº</p>
-                    <p class="txt-contatos">33 9 8400-9999</p>
-                    <p class="txt-contatos">contato@meusite.com.br</p>
+                    <div class="container-contato">
+                        <p class="txt-contatos">Rua das Margaridas, S/Nº</p>
+                        <p class="txt-contatos">33 9 8400-9999</p>
+                        <p class="txt-contatos">contato@meusite.com.br</p>
+                    </div>
 
                     <h4 class="title-contato">Newsletter</h4>
                     <form action="" method="GET">
