@@ -122,9 +122,9 @@
 
             <hgroup class="container-texto">
 
-                <h4 class="title-banner"c>Conheça nossos projetos</h4>
+                <h4 class="title-banner">Saiba mais sobre nossos Projetos</h4>
 
-                <p class="txt-banner">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium fuga et rerum, quia magni quasi doloribus! In perspiciatis dolorem neque magnam, repellat accusantium exercitationem obcaecati.</p>
+                <p class="txt-banner">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat similique, placeat maxime odio voluptas ducimus pariatur libero accusamus, ad aperiam quis et repellendus cupiditate nostrum.</p>
 
                 <a href="#" class="btn-banner">Saiba mais</a>
 
